@@ -1,8 +1,6 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=200&section=header&text=I'm%20Eugene&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=front-develop&descSize=25&descAlign=85&descAlignY=50)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackkong34&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackkong34&theme=vision-friendly-dark&show_icons=true)
 
 
 ![](https://github.com/kyu0918/github-stats-transparent/blob/output/generated/overview.svg)
