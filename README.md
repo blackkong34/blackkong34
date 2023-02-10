@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=337def&height=200&section=header&text=I'm%20Eugene&fontColor=fcc729&fontSize=90&fontAlign=62&fontAlignY=32&desc=front-develop&descSize=25&descAlign=85&descAlignY=50)
 
-
+<!-- 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackkong34&theme=github_dark&layout=compact" />
 </a>
@@ -8,7 +8,7 @@
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=blackkong34&theme=github_dark&show_icons=true/>
 </a>
 
-
+ -->
 
 <!--
 **blackkong34/blackkong34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
