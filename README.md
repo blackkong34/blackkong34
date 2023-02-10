@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=337def&height=200&section=header&text=I'm%20Eugene&fontColor=fcc729&fontSize=90&fontAlign=62&fontAlignY=32&desc=front-develop&descSize=25&descAlign=85&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=337def&height=200&section=header&text=I'm%20Eugene&fontColor=fcc729&fontSize=90&fontAlign=62&fontAlignY=32&desc=front-developer&descSize=25&descAlign=85&descAlignY=50)
 
 <!-- 
 <a href="https://github.com/anuraghazra/convoychat">
